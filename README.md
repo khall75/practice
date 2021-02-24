@@ -1,2 +1,2 @@
 # practice
-Just getting back in the groove of android
+Just getting back in the groove of python
